@@ -219,7 +219,9 @@ Participants are encouraged to customize the user interface and incorporate addi
 
 ---
 
-**References:**
+**Check out the screenshots for your references:**
+
+
 <img width="187" alt="image" src="https://github.com/user-attachments/assets/1fed4726-6e31-4d7f-a417-ac5914477413">
 <img width="188" alt="image" src="https://github.com/user-attachments/assets/0a830053-a7ff-49d2-866c-6aaadba77989">
 <img width="189" alt="image" src="https://github.com/user-attachments/assets/65bee04a-622c-4ead-9343-2d8279f67ef5">
