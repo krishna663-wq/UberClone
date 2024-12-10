@@ -86,9 +86,29 @@ To build a feature-complete Uber-like platform with real-time ride management, l
 2. **MapBox or Google Cloud**
    - **Why:** Offers map and geolocation services.
    - **Use Case:** Displays real-time location data.
+  
+     ![image](https://github.com/user-attachments/assets/f1b7bbc5-e769-4720-afdc-02a55650abe0)
+![image](https://github.com/user-attachments/assets/50ab26d3-607a-4fa0-96b7-5e00178e389a)
+![image](https://github.com/user-attachments/assets/89dae256-e8c1-419a-87bc-693fbb3610d0)
+![image](https://github.com/user-attachments/assets/b97253ef-6a20-474a-aeb7-7260cca70be4)
+![image](https://github.com/user-attachments/assets/f18f6a6a-db18-4dd5-b4b4-79ffe0af4e4d)
+![image](https://github.com/user-attachments/assets/5820be5b-90fe-4ec1-bee5-94dc4ca9d164)
+![image](https://github.com/user-attachments/assets/1dfa0ef6-130a-4671-9099-e0c26c28db87)
+![image](https://github.com/user-attachments/assets/e974bb93-7c61-4208-af25-153526b32fd7)
+![image](https://github.com/user-attachments/assets/12e52e5d-cec9-4ada-9a09-39ba8fffa197)
+![image](https://github.com/user-attachments/assets/05042788-e8ba-4704-bcd9-b2a4350bfaba)
+
+
+---
+# Project Structure for Feature Implementation
+This project is structured to ensure a systematic and incremental development process. Each week builds upon the previous deliverables, enabling a smooth transition from basic functionalities to advanced features.
 
 ---
 
+**NOTE:**
+Participants are encouraged to customize the user interface and incorporate additional features into the application. These modifications allow participants to demonstrate creativity, improve usability, and enhance the functionality of the project. Such enhancements align with the project’s objective of fostering innovative thinking while providing a personalized learning experience.
+
+---
 ## **Week-by-Week Plan**
 
 ---
@@ -98,7 +118,7 @@ To build a feature-complete Uber-like platform with real-time ride management, l
 - **Tasks:**
   1. Install and configure Node.js, MongoDB, and React.
      - **Reading:** [Setting Up MERN Stack](https://www.mongodb.com/mern-stack)  
-     - **Video:** [MERN Stack Crash Course](https://www.youtube.com/watch?v=NCwa_xi0Uuc)
+     - **Video:** [MERN Stack Crash Course](https://www.youtube.com/watch?v=fnpmR6Q5lEc)
   2. Create the project directory structure.
      - **Reading:** [React App Structure](https://reactjs.org/docs/getting-started.html)
   3. Build a basic Express server.
@@ -106,6 +126,7 @@ To build a feature-complete Uber-like platform with real-time ride management, l
      - **Video:** [Express Server Setup](https://www.youtube.com/watch?v=L72fhGm1tfE)
   4. Set up Tailwind CSS in the React app.
      - **Reading:** [Tailwind CSS Docs](https://tailwindcss.com/docs/installation)
+     - **Video** [Tailwind CSS lecture](https://www.youtube.com/watch?v=UBOj6rqRUME)
 
 - **Deliverables:**  
   - Basic project structure with a running server and frontend.
@@ -117,13 +138,13 @@ To build a feature-complete Uber-like platform with real-time ride management, l
 - **Tasks:**
   1. Set up user and driver schemas with Mongoose.
      - **Reading:** [MongoDB Schema Design](https://mongoosejs.com/docs/guide.html)  
-     - **Video:** [Mongoose Models Tutorial](https://www.youtube.com/watch?v=oWeLbVkACCU)
+     - **Video:** [Mongoose Models Tutorial](https://www.youtube.com/watch?v=DZBGEVgL2eE&t=30s)
   2. Integrate JWT for token-based authentication.
      - **Reading:** [JWT Basics](https://jwt.io/introduction/)
-     - **Video:** [JWT Implementation](https://www.youtube.com/watch?v=7Q17ubqLfaM)
+     - **Video:** [JWT Implementation](https://www.youtube.com/watch?v=mbsmsi7l3r4&t=1364s)
   3. Add login and signup pages in React.
-     - **Reading:** [React Forms](https://reactjs.org/docs/forms.html)
-     - **Video:** [Building Forms in React](https://www.youtube.com/watch?v=IKjvDPPG6bQ)
+     - **Reading:** [React Forms](https://react.dev/reference/react-dom/components/form)
+     - **Video:** [Building Forms in React](https://www.youtube.com/watch?v=SdzMBWT2CDQ&t=1s)
 
 - **Deliverables:**  
   - Functional login/signup system for users and drivers.
@@ -138,10 +159,10 @@ To build a feature-complete Uber-like platform with real-time ride management, l
      - **Video:** [Building REST APIs](https://www.youtube.com/watch?v=fgTGADljAeg)
   2. Integrate Socket.IO for real-time communication.
      - **Reading:** [Socket.IO Docs](https://socket.io/docs/v4/)
-     - **Video:** [Real-Time Apps with Socket.IO](https://www.youtube.com/watch?v=8LzZPzJLMfw)
+     - **Video:** [Real-Time Apps with Socket.IO](https://www.youtube.com/watch?v=UUddpbgPEJM)
   3. Display real-time ride updates on the frontend.
-     - **Reading:** [React State Management](https://reactjs.org/docs/state-and-lifecycle.html)
-     - **Video:** [Real-Time Updates in React](https://www.youtube.com/watch?v=zrxSKpOZS48)
+     - **Reading:** [React State Management](https://react.dev/learn/managing-state)
+     - **Video:** [Real-Time Updates in React](https://www.youtube.com/watch?v=35lXWvCuM8o)
 
 - **Deliverables:**  
   - Real-time ride booking system.
@@ -156,7 +177,8 @@ To build a feature-complete Uber-like platform with real-time ride management, l
      - **Video:** [Google Maps in React](https://www.youtube.com/watch?v=WZcxJGmLbSo)
   2. Enable real-time driver location updates using Socket.IO.
   3. Create a ride-tracking interface for users.
-     - **Reading:** [Dynamic Maps with React](https://reactjs.org/docs/react-api.html)
+     - **Reading:** [Dynamic Maps with React](https://www.telerik.com/blogs/how-to-create-dynamic-interactive-maps-kendoreact-map-component)
+     - **Video** [Dynamic maps react tutorial](https://www.youtube.com/watch?v=WKaUkmQhRDY)
 
 - **Deliverables:**  
   - Functional map with real-time driver tracking.
@@ -168,9 +190,11 @@ To build a feature-complete Uber-like platform with real-time ride management, l
 - **Tasks:**
   1. Set up Razorpay or Stripe for payments.
      - **Reading:** [Stripe Integration](https://stripe.com/docs)
-     - **Video:** [Stripe Payment Gateway Tutorial](https://www.youtube.com/watch?v=4II8Ihbg4cM)
+     - **Video:** [Stripe Payment Gateway Tutorial](https://www.youtube.com/watch?v=volAze3fpt0&t=1s)
   2. Implement payment APIs in Express.
-  3. Add payment confirmation UI in React.
+     - **Reading:**[Payment APIs](https://medium.com/bithubph/payment-integration-with-node-js-express-request-and-paystack-api-8cebf51c1f52)
+     - **Video:** [Payment APIs Integration](https://www.youtube.com/watch?v=ncQg1bnPXCo)
+  4. Add payment confirmation UI in React.
 
 - **Deliverables:**  
   - Fully integrated payment gateway.
@@ -182,12 +206,18 @@ To build a feature-complete Uber-like platform with real-time ride management, l
 - **Tasks:**
   1. Build the admin dashboard with analytics and user management.
      - **Reading:** [React Dashboards](https://reactjs.org/docs/thinking-in-react.html)
-     - **Video:** [React Admin Dashboard Tutorial](https://www.youtube.com/watch?v=Rb4Gh3r9AVU)
+     - **Video:** [React Admin Dashboard Tutorial](https://www.youtube.com/watch?v=bDNy1pF0jqA)
   2. Test all app features and fix bugs.
-     - **Reading:** [Testing React Apps](https://jestjs.io/)
-  3. Deploy the app on Heroku or AWS.
+     - **Reading:** [Testing React Apps](https://www.youtube.com/watch?v=8Xwq35cPwYg&t=186s)
+  3. Deploy the app using Heroku or AWS.
+     - **Reading:** [Deploying MERN Apps](https://dev.to/kunalukey/how-to-setup-and-deploy-a-mern-stack-project-for-free-5acl)
+     - **Video:** [Deploying React and Node.js Apps](https://www.youtube.com/watch?v=l134cBAJCuc)
 
 - **Deliverables:**  
   - Live UberClone app accessible online.
 
 ---
+
+## References: 
+https://github.com/Ankur77720/uber-video.git
+https://www.youtube.com/watch?v=4qyBjxPlEZo
