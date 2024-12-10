@@ -121,6 +121,7 @@ Participants are encouraged to customize the user interface and incorporate addi
      - **Video:** [MERN Stack Crash Course](https://www.youtube.com/watch?v=fnpmR6Q5lEc)
   2. Create the project directory structure.
      - **Reading:** [React App Structure](https://reactjs.org/docs/getting-started.html)
+     - - **Video:**[React tutorial](https://www.youtube.com/watch?v=RGKi6LSPDLU&t=4589s)
   3. Build a basic Express server.
      - **Reading:** [Express.js Basics](https://expressjs.com/)
      - **Video:** [Express Server Setup](https://www.youtube.com/watch?v=L72fhGm1tfE)
@@ -176,7 +177,9 @@ Participants are encouraged to customize the user interface and incorporate addi
      - **Reading:** [Google Maps API Docs](https://developers.google.com/maps/documentation)
      - **Video:** [Google Maps in React](https://www.youtube.com/watch?v=WZcxJGmLbSo)
   2. Enable real-time driver location updates using Socket.IO.
-  3. Create a ride-tracking interface for users.
+      - **Reading:** [Socket.IO Basics](https://socket.io/docs/v4/tutorial/step-3)
+     - **Video:** [Socket.IO](https://www.youtube.com/watch?v=UUddpbgPEJM)
+  4. Create a ride-tracking interface for users.
      - **Reading:** [Dynamic Maps with React](https://www.telerik.com/blogs/how-to-create-dynamic-interactive-maps-kendoreact-map-component)
      - **Video** [Dynamic maps react tutorial](https://www.youtube.com/watch?v=WKaUkmQhRDY)
 
@@ -209,6 +212,7 @@ Participants are encouraged to customize the user interface and incorporate addi
      - **Video:** [React Admin Dashboard Tutorial](https://www.youtube.com/watch?v=bDNy1pF0jqA)
   2. Test all app features and fix bugs.
      - **Reading:** [Testing React Apps](https://www.youtube.com/watch?v=8Xwq35cPwYg&t=186s)
+     - **Video:**[Testing React Apps](https://www.youtube.com/watch?v=8Xwq35cPwYg&t=212s)
   3. Deploy the app using Heroku or AWS.
      - **Reading:** [Deploying MERN Apps](https://dev.to/kunalukey/how-to-setup-and-deploy-a-mern-stack-project-for-free-5acl)
      - **Video:** [Deploying React and Node.js Apps](https://www.youtube.com/watch?v=l134cBAJCuc)
