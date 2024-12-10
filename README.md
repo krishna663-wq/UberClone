@@ -221,14 +221,11 @@ Participants are encouraged to customize the user interface and incorporate addi
 
 **Check out the screenshots for your references:**
 
-
 <img width="187" alt="image" src="https://github.com/user-attachments/assets/1fed4726-6e31-4d7f-a417-ac5914477413">
 <img width="188" alt="image" src="https://github.com/user-attachments/assets/0a830053-a7ff-49d2-866c-6aaadba77989">
 <img width="189" alt="image" src="https://github.com/user-attachments/assets/65bee04a-622c-4ead-9343-2d8279f67ef5">
 <img width="181" alt="image" src="https://github.com/user-attachments/assets/c8967f30-fd29-40ca-a655-7a7e65bb0597">
 <img width="194" alt="image" src="https://github.com/user-attachments/assets/14d48d34-5b64-4890-b1f1-f53e74e722d1">
-![image](https://github.com/user-attachments/assets/bd5e0852-a729-4961-818e-ed4e9a59b613)
-
 
 
 ## References: 
