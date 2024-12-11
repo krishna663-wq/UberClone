@@ -1,6 +1,8 @@
 ---
 
 ## **Project Name: UberClone**
+
+---
 ### **Overview:**
 The **UberClone** app replicates key functionalities of the Uber platform, including real-time ride requests, driver-tracking, user authentication, payment processing, and an admin dashboard. Built with the MERN stack, this app integrates real-time updates and a scalable backend for seamless user experience.
 
