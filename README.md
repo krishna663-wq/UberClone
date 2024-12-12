@@ -1,8 +1,6 @@
 ---
 
 ## **Project Name: UberClone**
-
----
 ### **Overview:**
 The **UberClone** app replicates key functionalities of the Uber platform, including real-time ride requests, driver-tracking, user authentication, payment processing, and an admin dashboard. Built with the MERN stack, this app integrates real-time updates and a scalable backend for seamless user experience.
 
@@ -102,6 +100,42 @@ To build a feature-complete Uber-like platform with real-time ride management, l
 
 
 ---
+Got it! Here are the headings you can use in your project where you can add the images of the diagrams below them:
+
+---
+
+## **Workflow Overview**
+This section illustrates the complete workflow for users, drivers, and admins, covering all major functionalities of the UberClone application.
+
+The diagram below shows one of the possible workflows as a reference. Participants are encouraged to expand, modify, and customize the workflows to align with their specific project requirements and creativity.
+
+---
+
+### **System Architecture**
+This section demonstrates the high-level architecture of the UberClone app, showcasing the interaction between the frontend, backend, database, and external APIs.
+![diagram-export-12-12-2024-9_17_20-AM](https://github.com/user-attachments/assets/b3ea5168-3d34-4741-88ed-d23e8235061f)
+
+---
+
+### **Database Design**
+This section presents the database schema, highlighting the relationships between key entities like Users, Rides, and Payments.
+![diagram-export-12-12-2024-9_14_51-AM](https://github.com/user-attachments/assets/0abf732b-619b-42db-958c-4c4c5848ba47)
+
+---
+
+### **Flowchart**
+This section provides a visual representation of the overall flow of the UberClone application, including user registration, ride booking, driver interactions, and payment processing.
+![diagram-export-12-12-2024-9_21_28-AM](https://github.com/user-attachments/assets/c856cc56-caae-4848-8ed0-e4ec8c833b07)
+
+
+---
+
+### **Sequence Diagram**
+This section presents the sequence of interactions between the different components of the UberClone application, including users, drivers, and the backend system.
+![diagram-export-12-12-2024-9_19_30-AM](https://github.com/user-attachments/assets/a5528a6a-0e52-4a5c-b9ac-9917f7b72884)
+
+---
+
 # Project Structure for Feature Implementation
 This project is structured to ensure a systematic and incremental development process. Each week builds upon the previous deliverables, enabling a smooth transition from basic functionalities to advanced features.
 
